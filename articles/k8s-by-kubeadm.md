@@ -147,8 +147,6 @@ $ cilium install --version 1.16.4
 $ cilium status # 確認
 ```
 
-## クラスタの確認
-
 `kube-system namespace` のPodを確認して、全てRunningになっていたら、成功です。
 
 ```bash
